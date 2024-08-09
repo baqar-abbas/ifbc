@@ -25,7 +25,7 @@ const BecomeAConsultant = () => {
             className="md:ml-10 md:w-[30%] md:h-[30%] max-md:w-[100%]"
           />
         </article>
-        <Link to="/apply-now">
+        <Link to="/qualify-consultant">
           <button className="candidate-btn md:w-[25%] max-md:w-full max-md: mt-6">
             See if you Qualify
           </button>
